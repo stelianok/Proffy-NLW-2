@@ -11,6 +11,7 @@
 ### Mobile
 <img src="https://i.imgur.com/ZmIL5Lw.jpg" alt="HomeScreen" width="200" height="375"/> <img src="https://i.imgur.com/TGVaOCj.jpg" alt="Proffy" width="200" height="375"/>
 <img src="https://i.imgur.com/Mw6RHTJ.jpg" alt="Search" width="200" height="375"/> <img src="https://i.imgur.com/j7ERZaw.jpg" alt="Favorites" width="200" height="375"/>
+
 ## Table of Contents 🛰
 
 - [Technologies :rocket:](##Technologies)
@@ -31,8 +32,9 @@
 ## About 📖
 
 Proffy allows teachers to connect to users quickly via the mobile or web application. 
-The project was developed during the Rocketseat event *Next Level week #2* that took place in 03/08/2020 to 11/08/2020, with Typescript, Reactjs, React Native, Expo and Nodejs
-I learned a lot doing this project, especially how to use Typescript to create responsive websites, that change accordingly to the size of the user screen.
+The project was developed during the Rocketseat event *Next Level week #2* that took place in 03/08/2020 to 11/08/2020, with Typescript, Reactjs, React Native, Expo and Nodejs.
+I learned a lot doing this project, especially how to use Typescript with React, Nodejs and React Native, and also how to use React  to create responsive websites, that change accordingly to the size of the user screen.
+
 ## Installation 👷‍♂️
 
 ### Installing dependencies
@@ -51,8 +53,10 @@ inside the folder mobile or Web, run:
 ## Features 🛠✨
 
   - Teacher can register in the web app.
-  - Teacher can register a classes in the web app.
-  
+  - Teacher can register classes in the web app.
+  - User can filter classes by day, time, subject and talk with the professors in the web via whatsapp.
+  - User can filter classes by day, time, subject and talk with the professors in the app via whatsapp.
+  - User can favorite the teachers.
   
 ## Contributing 🤗
 
