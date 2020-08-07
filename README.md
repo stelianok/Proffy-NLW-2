@@ -4,7 +4,13 @@
 
 ## Images
 ### Web
+<img src="https://i.imgur.com/EDNU865.png" alt="HomeScreen" width="500" height="350"/>
+<img src="https://i.imgur.com/3riUOzu.gif" alt="WebFilter" width="500" height="350"/> 
+<img src="https://i.imgur.com/S7ZQCCi.gif" alt="WebCadastro" width="500" height="350"/>
+
 ### Mobile
+<img src="https://i.imgur.com/ZmIL5Lw.jpg" alt="HomeScreen" width="200" height="375"/> <img src="https://i.imgur.com/TGVaOCj.jpg" alt="Proffy" width="200" height="375"/>
+<img src="https://i.imgur.com/Mw6RHTJ.jpg" alt="Search" width="200" height="375"/> <img src="https://i.imgur.com/j7ERZaw.jpg" alt="Favorites" width="200" height="375"/>
 ## Table of Contents 🛰
 
 - [Technologies :rocket:](##Technologies)
